@@ -55,8 +55,9 @@
 ## Output:
 
 
-### Name:
-### Register Number: 
+
+### Name:P.S.SABARI
+### Register Number: 212225040352
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
