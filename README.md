@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 15.3.26
 
 ## AIM:
 
@@ -53,9 +53,7 @@
 
 
 ## Output:
-
-
-
+"C:\Users\sabar\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-03-15 154255.png"
 ### Name:P.S.SABARI
 ### Register Number: 212225040352
 
