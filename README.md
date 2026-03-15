@@ -53,7 +53,7 @@
 
 
 ## Output:
-"C:\Users\sabar\OneDrive\Documents\Pictures\Screenshots\Screenshot 2026-03-15 154255.png"
+https://github.com/sabaripurushothaman/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/main/OUTPUT.PNG.png
 ### Name:P.S.SABARI
 ### Register Number: 212225040352
 
